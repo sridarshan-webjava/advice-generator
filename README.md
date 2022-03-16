@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-- Initial state (default advice)
+- Initial state (default advice text)
   ![](./screenshots/Screenshot%201.png)
 - Hover state (when hovering over the button)
   ![](./screenshots/Screenshot%202.png)
@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sridarshan-webjava/advice-generator)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/sridarshan-webjava/advice-generator)
+- Live Site URL: [Live Site](https://advice-generator.pages.dev/)
 
 ## My process
 
@@ -54,5 +54,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sridarshan-webjava)
+- Website - [B.Sridarshan](https://github.com/sridarshan-webjava)
+- Frontend Mentor - [@sridarshan-webjava](https://www.frontendmentor.io/profile/sridarshan-webjava)
