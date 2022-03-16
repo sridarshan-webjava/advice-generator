@@ -29,7 +29,9 @@ function setAdviceDetails(advice, id) {
 // Function to get response from Advice API
 async function getNewAdvice() {
   loadingAdviceText();
-  const response = await fetch("https://api.adviceslip.com/advice")
+  const response = await fetch("https://api.adviceslip.com/advice", {
+    cache: "no-cache",
+  })
     .then(resp => resp.json())
     .catch(e => console.log(e));
   newAdviceText = response;

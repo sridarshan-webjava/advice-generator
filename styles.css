@@ -42,6 +42,10 @@ body {
   padding: 0 0.85rem;
 }
 
+main {
+  align-self: end;
+}
+
 .advice-view {
   max-width: 35rem;
   background: var(--bg-md-dark);
@@ -148,12 +152,12 @@ body {
 }
 
 .attribution {
+  align-self: end;
   font-size: 0.75rem;
   text-align: center;
   color: var(--primary-color);
-  position: absolute;
-  bottom: 5%;
   letter-spacing: 1px;
+  padding: 0 0 1rem 0;
 }
 
 .attribution a {
