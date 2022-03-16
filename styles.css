@@ -49,6 +49,7 @@ body {
   border-radius: 0.75rem;
   position: relative;
   text-align: center;
+  box-shadow: 0 0 8px 0 var(--bg-md-dark);
 }
 
 @media screen and (min-width: 570px) {
