@@ -25,10 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/Screenshot%201.png)
-![](./screenshots/Screenshot%202.png)
-![](./screenshots/Screenshot%203.png)
-![](./screenshots/Screenshot%204.png)
+- Initial state (default advice)
+  ![](./screenshots/Screenshot%201.png)
+- Hover state (when hovering over the button)
+  ![](./screenshots/Screenshot%202.png)
+- Loading animation (displayed upon delay in response)
+  ![](./screenshots/Screenshot%203.png)
+- Final state (after response is received and data is populated)
+  ![](./screenshots/Screenshot%204.png)
 
 ### Links
 
